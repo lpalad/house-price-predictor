@@ -4,6 +4,8 @@ WORKDIR /app
 
 COPY . . 
 
+COPY .streamlit/ .streamlit/
+
 RUN pip install -r requirements.txt
 
 EXPOSE 8501
