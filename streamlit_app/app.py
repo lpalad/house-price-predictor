@@ -171,7 +171,7 @@ st.markdown("<hr>", unsafe_allow_html=True)  # Add a horizontal line for separat
 st.markdown(
     """
     <div style="text-align: center; color: gray; margin-top: 20px;">
-        <p><strong>Built for MLOps Bootcamp</strong></p>
+        <p><strong>SalesConnect Enterprise Mobile System</strong></p>
         <p>by <a href="https://www.salesconnect.com.au" target="_blank">SalesConnect</a></p>
     </div>
     """,
